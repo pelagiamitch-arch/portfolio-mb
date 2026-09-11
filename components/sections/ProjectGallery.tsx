@@ -535,7 +535,7 @@ export default function ProjectGallery({
                               >
                                 <Play size={17} fill="currentColor" />
 
-                                Voir cette création sur YouTube
+                                Voir plus de créations sur YouTube
 
                                 <ExternalLink size={15} />
                               </motion.a>
