@@ -40,7 +40,7 @@ export default function Footer() {
             </Link>
 
             <Link
-              href="https://wa.me/MitchLielle"
+              href="https://wa.me/@MitchLielle"
               target="_blank"
               className="w-14 h-14 rounded-full border border-white/10 bg-white/5 flex items-center justify-center hover:bg-green-600 transition"
             >
