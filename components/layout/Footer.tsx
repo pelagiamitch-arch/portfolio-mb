@@ -32,7 +32,7 @@ export default function Footer() {
           <div className="flex md:justify-end gap-5">
 
             <Link
-              href="https://linkedin.com/in/TON-LINKEDIN"
+              href="https://www.linkedin.com/in/mitch-boulessi-85aa51324/"
               target="_blank"
               className="w-14 h-14 rounded-full border border-white/10 bg-white/5 flex items-center justify-center hover:bg-violet-600 transition"
             >
