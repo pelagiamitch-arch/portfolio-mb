@@ -23,6 +23,18 @@ export const galleryData: GalleryCollection = {
       type: "image",
     },
 
+        {
+     src: "https://urmr6zsh4rhujf88.public.blob.vercel-storage.com/Mitch.mp4",
+      title: "Montage vidéo",
+      description:
+        "Création vidéo réalisée pour un projet créatif.",
+      type: "video",
+      thumbnail: "/projects/trueLove.png",
+      youtubeUrl: "https://www.youtube.com/watch?v=xWvv6O00nlY",
+      
+      
+    },
+
     {
       src: "/projects/Elykia.png",
       title: "Logo",
@@ -37,17 +49,6 @@ export const galleryData: GalleryCollection = {
       type: "image",
     },
 
-    {
-     src: "https://urmr6zsh4rhujf88.public.blob.vercel-storage.com/Mitch.mp4",
-      title: "Montage vidéo",
-      description:
-        "Création vidéo réalisée pour un projet créatif.",
-      type: "video",
-      thumbnail: "/projects/grace.png",
-      youtubeUrl: "https://www.youtube.com/watch?v=xWvv6O00nlY",
-      
-      
-    },
   ],
 
   quiz: [
