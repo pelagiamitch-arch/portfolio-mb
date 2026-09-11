@@ -38,7 +38,7 @@ export const galleryData: GalleryCollection = {
     },
 
     {
-     src: "/projects/Mercy.mp4",
+     src: "https://urmr6zsh4rhujf88.public.blob.vercel-storage.com/Mitch.mp4",
       title: "Montage vidéo",
       description:
         "Création vidéo réalisée pour un projet créatif.",
