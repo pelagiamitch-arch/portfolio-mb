@@ -148,7 +148,7 @@ export default function ProjectMockup({ project }: Props) {
           "
         >
           <Image
-            src="/projects/elykia.png"
+            src="/projects/trueLove.png"
             alt="Design 3"
             width={450}
             height={600}
