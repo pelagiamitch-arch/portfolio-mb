@@ -244,27 +244,27 @@ export default function ProjectGallery({
               </div>
 
               {/* CONTENU */}
-              <div
-                className="
-                  grid
-                  min-h-0
-                  flex-1
-                  gap-4
-                  overflow-y-auto
-                  p-3
-                  sm:gap-6
-                  sm:p-5
-                  lg:grid-cols-[minmax(0,1fr)_240px]
-                  lg:gap-7
-                  lg:overflow-hidden
-                  lg:p-7
-                "
-              >
+             <div
+  className="
+    grid
+    min-h-0
+    flex-1
+    gap-4
+    overflow-y-auto
+    p-3
+    sm:gap-6
+    sm:p-5
+    lg:grid-cols-[minmax(0,1fr)_240px]
+    lg:gap-7
+    lg:overflow-hidden
+    lg:p-7
+  "
+>
                 {/* ================================================= */}
                 {/* MEDIA PRINCIPAL */}
                 {/* ================================================= */}
 
-                <div className="min-w-0">
+               <div className="min-w-0 lg:min-h-0 lg:overflow-y-auto lg:pr-2">
                   <AnimatePresence mode="wait">
                     <motion.div
                       key={`gallery-media-${current}`}
