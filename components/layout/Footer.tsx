@@ -40,7 +40,7 @@ export default function Footer() {
             </Link>
 
             <Link
-              href="https://wa.me/242XXXXXXXXX"
+              href="https://wa.me/MitchLielle"
               target="_blank"
               className="w-14 h-14 rounded-full border border-white/10 bg-white/5 flex items-center justify-center hover:bg-green-600 transition"
             >
@@ -48,14 +48,14 @@ export default function Footer() {
             </Link>
 
             <Link
-              href="mailto:tonemail@example.com"
+              href="mailto:mitchboulessi731@gmail.com"
               className="w-14 h-14 rounded-full border border-white/10 bg-white/5 flex items-center justify-center hover:bg-violet-600 transition"
             >
               <Mail size={22} />
             </Link>
 
             <Link
-              href="tel:+242XXXXXXXX"
+              href="tel:+242067608379"
               className="w-14 h-14 rounded-full border border-white/10 bg-white/5 flex items-center justify-center hover:bg-violet-600 transition"
             >
               <Phone size={22} />
